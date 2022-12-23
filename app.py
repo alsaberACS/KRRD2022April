@@ -30,7 +30,7 @@ def main():
     st.markdown("""**Dr. Adeeba Al-Herz**""")
     new_title4 = '<p style="font-family:sans-serif; color:black; font-size: 14 px;">Rheumatology Unit, Department of Internal Medicine, Al-Amiri Hospital - Kuwait <a  href=" mailto:adeebaalherz@yahoo.com"> Email </a> </p> '            
     st.markdown(new_title4, unsafe_allow_html=True)
-    st.markdown("""**Dr. Ahmad Al-Saber**""")
+    st.markdown("""**Dr. Ahmad Alsaber**""")
     new_title5 = '<p style="font-family:sans-serif; color:black; font-size: 14 px;">University of Strathclyde/UK <a  href="admin@acs-kw.com"> Email </a> </p> ' 
     st.markdown(new_title5, unsafe_allow_html=True)
     
